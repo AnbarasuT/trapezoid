@@ -1,6 +1,8 @@
 trapezoid
 =========
 
+//////////   -----------   activity = new QuadriAngles($('#canvasElem'));
+
 shape
 
 
